@@ -29,3 +29,5 @@
     padding: 0 9px;
     font-size: 15px;
 }
+
+.nav-item:hover .nav-link {color: #00b39b;}
